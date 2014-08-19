@@ -11,8 +11,12 @@ what are the most popular words used other our terms in order to get a clear ide
 <tr>
   <td><b>Programming Language: </b></td>
   <td>Python</b>
+</tr>
+<tr>
   <td><b>Data: </b></td>
   <td>FoundationDB</b>
+</tr>
+<tr>
   <td><b>Other APIs: </b></td>
   <td>Python-Twitter</b>
 </tr>
