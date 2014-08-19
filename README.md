@@ -24,13 +24,13 @@ what are the most popular words used other our terms in order to get a clear ide
 <h2>To Do</h2>
 <p>Here are some things that could be done in order to improve <b>Hawk</b>;</p>
 <ul>
-  <li><b>NLP:</b> &nbspThis app features a simple dummy algorithm that checks for word match however we can apply a custom NLP
+  <li><b>NLP:</b> This app features a simple dummy algorithm that checks for word match however we can apply a custom NLP
   algorithm to tweets brought in order to make sure the tweet somewhat relates to a complaint instead of a good tweet.
   We wouldn't want to bother someone saying "DB X solves all the database errors and problems. I love it!"</li>
-  <li><b>No Tweet ID check:</b>&nbspCurrently tweets are not checked so after each iteration if the API returns the same results,
+  <li><b>No Tweet ID check:</b>Currently tweets are not checked so after each iteration if the API returns the same results,
   the words ranked still increased. So the Tweet ID's must be checked in order
   to prevent rate increase for duplicate tweets returned</li>
-  <li><b>Further Options:</b>&nbspAs we all know we can add many options from hashtags to mentions, geocoding to number of followers
+  <li><b>Further Options:</b>As we all know we can add many options from hashtags to mentions, geocoding to number of followers
   using Twitter API's when finding our users</li>
-  <li><b>Potential Customer Info Storage: </b>&nbspAPI only provides screen names of the potential user, but also full name, email can be provided as well for easier contact.</li>
+  <li><b>Potential Customer Info Storage: </b>API only provides screen names of the potential user, but also full name, email can be provided as well for easier contact.</li>
 </ul>
